@@ -1,0 +1,27 @@
+.bg {
+    background-image: url('../assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.nav-link:focus{
+  color:white;
+}
+
+.img1{
+  image-resolution: cover;
+  width: 80%;
+  height: 100%;
+  align-items: center; 
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width:100%;
+  
+}
+
+
+

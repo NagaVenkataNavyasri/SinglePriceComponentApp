@@ -1,0 +1,17 @@
+.why-us {
+    background-image: url('../../assets/bgImg2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: .15rem 1rem .5rem 1rem;
+    color: black;
+    text-align: center;
+    
+  }
+  .why-us h3 {
+    color: blueviolet;
+  }
+
+.why-us p {
+    font-size: .9rem;
+    
+}
